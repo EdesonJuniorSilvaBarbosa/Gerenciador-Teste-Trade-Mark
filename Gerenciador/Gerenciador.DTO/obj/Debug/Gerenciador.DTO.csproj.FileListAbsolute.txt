@@ -1,0 +1,5 @@
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DTO\bin\Debug\Gerenciador.DTO.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DTO\bin\Debug\Gerenciador.DTO.pdb
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DTO\obj\Debug\Gerenciador.DTO.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DTO\obj\Debug\Gerenciador.DTO.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DTO\obj\Debug\Gerenciador.DTO.pdb

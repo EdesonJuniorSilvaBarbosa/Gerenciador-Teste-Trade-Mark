@@ -1,0 +1,14 @@
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\Gerenciador.DAL.dll.config
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\Gerenciador.DAL.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\Gerenciador.DAL.pdb
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\EPPlus.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\EPPlus.Interfaces.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\EPPlus.System.Drawing.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\Gerenciador.DTO.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\Gerenciador.DTO.pdb
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\bin\Debug\EPPlus.xml
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\obj\Debug\Gerenciador.DAL.csproj.AssemblyReference.cache
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\obj\Debug\Gerenciador.DAL.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\obj\Debug\Gerenciador.DAL.csproj.CopyComplete
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\obj\Debug\Gerenciador.DAL.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.DAL\obj\Debug\Gerenciador.DAL.pdb

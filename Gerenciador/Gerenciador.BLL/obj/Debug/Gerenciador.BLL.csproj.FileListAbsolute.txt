@@ -1,0 +1,12 @@
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\bin\Debug\Gerenciador.BLL.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\bin\Debug\Gerenciador.BLL.pdb
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\bin\Debug\Gerenciador.DAL.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\bin\Debug\Gerenciador.DTO.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\bin\Debug\Gerenciador.DAL.pdb
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\bin\Debug\Gerenciador.DAL.dll.config
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\bin\Debug\Gerenciador.DTO.pdb
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\obj\Debug\Gerenciador.BLL.csproj.AssemblyReference.cache
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\obj\Debug\Gerenciador.BLL.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\obj\Debug\Gerenciador.BLL.csproj.CopyComplete
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\obj\Debug\Gerenciador.BLL.dll
+E:\DOCUMENTOS\Backup Sistema Financeiro\Gerenciador-Teste-Trade-Mark\Gerenciador\Gerenciador.BLL\obj\Debug\Gerenciador.BLL.pdb
